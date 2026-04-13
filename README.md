@@ -1,0 +1,1 @@
+This is a personal website built with H.T.M.L. and C.S.S. with discussions of classic literature, foreign languages, music, and my personal life. Almost all of the graphics were drawn myself.<img width="1451" height="707" alt="Screenshot 2026-04-13 at 3 27 24 PM" src="https://github.com/user-attachments/assets/80a98fd1-9f90-4fab-b138-f0f8489f7489" />
