@@ -1,0 +1,70 @@
+@font-face{
+  font-family:"norm";
+  src: url(https://ondine.neocities.org/fonts/times.ttf);
+}
+@font-face{
+  font-family:"ital";
+  src: url(https://ondine.neocities.org/fonts/timesi.ttf);
+}
+body {
+    padding-top: 25px;
+    margin:auto;
+    font-size: 17px;
+    scrollbar-color: #134F7F #033F7E;
+    }
+* {
+    box-sizing: border-box;
+    cursor: url(/pen.png), auto;
+    font-family:"norm", serif;
+}
+i{
+  font-family:"ital";
+  font-style:normal;
+  font-size:20px;
+}
+p, li{
+  color:#74879D;
+  text-shadow:1px 1px 4px #51617B;
+  font-size:20px;}
+p{
+      text-indent:42px;
+}
+h2, h3{
+      color:#48D9C3;
+      text-shadow:0px 0px 15px #1D99B8;
+}
+::selection {
+    text-shadow: 0px 0px 5px #01D4D0;
+    color: #8AC69C;
+}
+.quote{
+  color:#8388BB;
+  background:#252160;
+  padding:4%;
+  margin:1%;
+  font-size:17px;
+}
+a{
+  color:grey;
+  cursor: url(/peng1.png), auto;
+}
+a:active{
+  cursor: url(/peng2.png), auto;
+  }
+button{background-color:#680C0C;}{
+  scrollbar-width: thin;
+  scrollbar-color: #3253C8 #0F193C;
+}
+*::-webkit-scrollbar {
+  height: 12px;
+  width: 12px;
+}
+*::-webkit-scrollbar-track {
+  border-radius: 5px;
+  background-color: #0F193C;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 6px;
+  background-color: #080D1F;
+}
